@@ -16,9 +16,9 @@ The Fuel Station Delivery App is a comprehensive application developed using the
 
 ## Getting Started
 1. Clone the repository:
-   ```git clone https://github.com/your-username/fuel-station-delivery-app.git```
+   ```git clone https://github.com/your-username/Fuel-Station.git```
 2. Navigate to the project directory:
-   ```cd fuel-station-delivery-app```
+   ```cd Fuel-Station```
    ```git clone https://github.com/Janhvisingh21/Fuel-Station.git```
 2. Navigate to the project directory:
    ```cd Fuel-Station```
