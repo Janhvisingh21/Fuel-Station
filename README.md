@@ -16,15 +16,12 @@ The Fuel Station Delivery App is a comprehensive application developed using the
 
 ## Getting Started
 1. Clone the repository:
-<<<<<<< HEAD
    ```git clone https://github.com/your-username/fuel-station-delivery-app.git```
 2. Navigate to the project directory:
    ```cd fuel-station-delivery-app```
-=======
    ```git clone https://github.com/Janhvisingh21/Fuel-Station.git```
 2. Navigate to the project directory:
    ```cd Fuel-Station```
->>>>>>> 633b2bf1d71e90329e5c59461cac5138cffb2e59
 3. Install dependencies for the server:
    ```bash 
    cd server
@@ -47,10 +44,3 @@ Add the necessary environment variables, such as database connection details and
 - Add the necessary environment variables, such as API endpoint URLs. Refer to .env.example for the required variables.
 8. Start the client:
 ```npm start```
-9. Open your web browser and access the application at http://localhost:3000.
-<<<<<<< HEAD
-
-## License
-This project is licensed under the MIT License. By contributing to this project, you agree to license your contributions under the same license.
-=======
->>>>>>> 633b2bf1d71e90329e5c59461cac5138cffb2e59
