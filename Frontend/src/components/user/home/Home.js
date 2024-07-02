@@ -91,7 +91,7 @@ function Home() {
                 to="/user/order"
                 className="flex items-center justify-center  w-[200px] h-[100px] bg-gray-800 rounded-lg shadow hover:bg-[#fe6f2b]"
               >
-                <h5 className="mb-2 lg:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h5 className="mb-2 lg:text-2xl font-bold tracking-tight text-white dark:text-white">
                   Order Fuel
                 </h5>
               </Link>
@@ -101,7 +101,7 @@ function Home() {
                 to="/user/orderHistory"
                 className="flex items-center justify-center  w-[200px] h-[100px] bg-gray-800 rounded-lg shadow hover:bg-[#fe6f2b]"
               >
-                <h5 class="mb-2 lg:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h5 class="mb-2 lg:text-2xl font-bold tracking-tight text-white dark:text-white">
                   Order History
                 </h5>
               </Link>
@@ -111,7 +111,7 @@ function Home() {
                 to="/user/Profile"
                 className="flex items-center justify-center  w-[200px] h-[100px] bg-gray-800 rounded-lg shadow hover:bg-[#fe6f2b]"
               >
-                <h5 className="mb-2  lg:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h5 className="mb-2  lg:text-2xl font-bold tracking-tight text-white dark:text-white">
                   Profile
                 </h5>
               </Link>
@@ -121,7 +121,7 @@ function Home() {
                 to="/user/logout"
                 className="flex items-center justify-center  w-[200px] h-[100px] bg-gray-800 rounded-lg shadow hover:bg-[#fe6f2b]"
               >
-                <h5 className="mb-2  lg:text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h5 className="mb-2  lg:text-2xl font-bold tracking-tight text-white dark:text-white">
                   Log out
                 </h5>
               </Link>

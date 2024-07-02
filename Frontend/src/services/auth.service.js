@@ -1,7 +1,7 @@
 import axios from "axios";
 import { toast } from "react-toastify";
 
-const API_URL = "http://localhost:5000/";
+const API_URL = "http://localhost:5001/";
 
 const signup = (email, password,name,phone) => {
   return axios

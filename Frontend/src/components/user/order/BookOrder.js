@@ -128,7 +128,7 @@ function BookOrder() {
     if(dieselPrice ){
       const diesel =  {
         "price" : dieselPrice,
-        "quantity" : dieselPrice
+        "quantity" : dieselQuantity
       }
       fuel.diesel = diesel;
     }
